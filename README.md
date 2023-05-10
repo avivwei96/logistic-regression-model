@@ -54,7 +54,3 @@ We split the data into a training set and a test set, with 80% of the data used 
 Finally, we evaluate the performance of the model on the test set by computing its accuracy and plotting the ROC curve. We also print the weights vector learned by the logistic regression model.
 
 To run the code, simply execute the `main.py` file.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
